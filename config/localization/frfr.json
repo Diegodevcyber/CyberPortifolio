@@ -1,0 +1,87 @@
+{
+    "id": "enuk",
+    "navbarMenu": {
+        "labelHome": "INÍCIO",
+        "labelServices": "SERVIÇOS",
+        "labelAboutMe": "SOBRE MIM",
+        "labelPortifolio": "PORTFÓLIO",
+        "labelExperience": "EXPERIÊNCIA"
+    },
+    "landingPage": {
+        "apresentationText": "Olá Mundo,",
+        "typeText": "Diego CyberSec",
+        "resumeText": "Fascinado por TI e suas questões de segurança, estou migrando para a profissão de cibersegurança. Criativo e perseverante, gosto de enfrentar desafios em equipe para atender aos desafios atuais em termos de segurança da informação.",
+        "buttonText": "Sobre mim"
+    },
+    "servicesOffer": {
+        "title": "Meus Serviços",
+        "cards": {
+            "forensique": {
+                "title": "Investigação Forense",
+                "contentText": "Sólido entendimento dos princípios básicos da computação forense, incluindo métodos de aquisição de dados, análise de dados e apresentação de evidências."
+            },
+            "devsecops": {
+                "title": "DevSecOps",
+                "contentText": "Forte compreensão de desenvolvimento, segurança da informação e conformidade regulatória. Competente em CI/CD, segurança de rede, testes de penetração."
+            },
+            "pentesting": {
+                "title": "Pentest",
+                "contentText": "Teste de penetração e vulnerabilidades comuns. Reconhecimento, exploração, pós-exploração e relatórios. Identificação e correção de vulnerabilidades para garantir a segurança de sistemas e redes."
+            },
+            "developpement": {
+                "title": "Desenvolvimento",
+                "contentText": "Experiência em Python, NodeJs, JavaScript, Php e outros. Uso avançado do GitHub para controle de versão e colaboração em projetos pessoais e profissionais."
+            }
+        }
+    },
+    "aboutMePage": {
+        "title": "SOBRE MIM",
+        "paragraph_one": "Tenho sólida experiência em desenvolvimento web, utilizando diversas linguagens e frameworks, além de graduação em Análise e Desenvolvimento de Sistemas.",
+        "paragraph_two": "Atualmente, estou aprimorando meus conhecimentos em cibersegurança através de pós-graduação em Cibersegurança e Cibercrime, com foco na certificação CEH.",
+        "paragraph_three": "Busco oportunidade em empresa inovadora que valorize a segurança da informação, onde possa aplicar meus conhecimentos para proteger sistemas e dados, contribuindo para a construção de soluções robustas e confiáveis.",
+        "github_card": {
+            "followers": "Seguidores",
+            "following": "Seguindo",
+            "repos": "Repositórios"
+        },
+        "alt_dev_img": "Diego CyberSec"
+    },
+    "portifolioPage": {
+        "title": "PORTFÓLIO",
+        "labelFilter": "TODOS",
+        "createdLabel": "Criado em"
+    },
+    "experiencePage": {
+        "title": "EXPERIÊNCIA",
+        "timeline": {
+            "labelPosition": "Posição",
+            "labelTitle": "Título",
+            "labelCompany": "Empresa",
+            "labelCategory": "Categoria",
+            "labelInstitution": "Instituição",
+            "labelProfessionalCourse": "Curso Profissionalizante",
+            "labelBachelorDegree": "Graduação",
+            "labelExtensionCourse": "Curso de Extensão"
+        }
+    },
+    "footer": {
+        "labelNavigation": {
+            "title": "Navegação",
+            "labelHome": "Início",
+            "labelServices": "Serviços",
+            "labelAboutMe": "Sobre Mim",
+            "labelPortifolio": "Portfólio",
+            "labelExperience": "Experiência"
+        },
+        "labelHost": {
+            "title": "Hospedagem"
+        },
+        "labelSourceCode": {
+            "title": "Código Fonte"
+        },
+        "labelTechs": {
+            "title": "Tecnologias"
+        },
+        "labelBuildVersion": "Versão"
+    }
+}
