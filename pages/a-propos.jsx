@@ -268,7 +268,7 @@ export default function AProposDeMoi(props) {
 
 	useEffect(() => {
 		async function fetchGithubStats() {
-			const response = await fetch("https://api.github.com/users/Diego-Carvalho-Dev");
+			const response = await fetch("https://api.github.com/users/Diegodevcyber");
 			const json = await response.json();
 			setGithubUserData(json);
 		}
@@ -320,7 +320,7 @@ export default function AProposDeMoi(props) {
 							<p>{language.aboutMePage.paragraph_three}</p>
 							<div className="tech-and-cv">
 								<SocialNetworkRowStack />
-								<ButtonCV href="https://drive.google.com/file/d/16gGa8C53epr-ZEad23EGdxcpgXlDawso/view?usp=sharing" target="_blank" data-splitbee-event="Download CV">
+								<ButtonCV href="https://mega.nz/file/VS1T2bKL#Vg-NjOdrfSpT6ru1ivBvzdgdaNpH22jrRr60v2YiRnE" target="_blank" data-splitbee-event="Download CV">
 									Download CV
 								</ButtonCV>
 							</div>

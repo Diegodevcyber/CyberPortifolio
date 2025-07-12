@@ -171,8 +171,8 @@ export default function HomePage() {
 			<ProgressBar color={theme.colors.branding} height={5} />
 			<Head
 				title="Diego CyberSec | Portfolio"
-				metaDescription="Portfolio de Diego CyberSec, projets et compétences"
-				keywords="Diego CyberSec, Cybersécurité, Programmation, CSIRT, Pentesting"
+				metaDescription="Portfolio de Diego CyberSec, projetos e competencias"
+				keywords="Diego CyberSec, Cybersecurity, Promgamação, CSIRT, Pentesting"
 			/>
 			<LandingPageContainer>
 

@@ -234,7 +234,7 @@ export default function FooterPage(props) {
 	}, []);
 
 	async function getLastCommit() {
-		const response = await fetch("https://api.github.com/repos/Diego-Carvalho-Dev/Portfolio/commits");
+		const response = await fetch("https://api.github.com/repos/Diegodevcyber/CyberPortifolio/commits");
 		const json = await response.json();
 		try {
 			setCommit(json[0].sha.slice(0, 6));
@@ -279,7 +279,7 @@ export default function FooterPage(props) {
 					<SectionFooterMenu>
 						<FooterTextTitle>{language.footer.labelHost.title}</FooterTextTitle>
 
-						<FooterTextExternalLink href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank">
+						<FooterTextExternalLink href="" target="_blank">
 							Self-Hosting
 						</FooterTextExternalLink>
 					</SectionFooterMenu>
@@ -288,7 +288,7 @@ export default function FooterPage(props) {
 				<ScrollAnimation animateIn="fadeIn" animateOnce delay={400}>
 					<SectionFooterMenu>
 						<FooterTextTitle>{language.footer.labelSourceCode.title}</FooterTextTitle>
-						<FooterTextExternalLink href="https://github.com/Diego-Carvalho-DevPortfolio" target="_blank">
+						<FooterTextExternalLink href="https://github.com/Diegodevcyber" target="_blank">
 							Github
 						</FooterTextExternalLink>
 					</SectionFooterMenu>

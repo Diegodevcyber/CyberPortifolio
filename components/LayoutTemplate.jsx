@@ -172,7 +172,7 @@ export default function LayoutTemplate({ children }) {
 					<Link style={{ textDecoration: "none" }} href="http://localhost:3000" passHref>
 						<LogoContainer>
 							<LogoText>
-								<CaracteresLogo>&lt;</CaracteresLogo>D1xgx <CaracteresLogo>/&gt;</CaracteresLogo>
+								<CaracteresLogo>&lt;</CaracteresLogo>Diegodevcyber <CaracteresLogo>/&gt;</CaracteresLogo>
 							</LogoText>
 						</LogoContainer>
 					</Link>
