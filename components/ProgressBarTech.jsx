@@ -8,6 +8,7 @@ const WrapperProgressBar = styled.div`
 	flex-direction: row;
 `;
 
+
 const ProgressBar = styled.div`
 	width: 160px;
 	height: 12px;

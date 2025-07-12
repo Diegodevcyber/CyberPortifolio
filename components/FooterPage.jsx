@@ -10,6 +10,7 @@ import SocialNetworkRowStack from "@/components/SocialNetworkRowStack";
 import LanguageSwitchButton from "@/components/LanguageSwitchButton";
 import { scrollToSection } from "./SmoothScroll";
 
+
 //Ícones
 import { KeyboardArrowUp } from "@styled-icons/material-outlined/KeyboardArrowUp";
 

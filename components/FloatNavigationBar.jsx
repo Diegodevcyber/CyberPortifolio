@@ -9,6 +9,7 @@ import { FolderBriefcase } from "@styled-icons/fluentui-system-filled/FolderBrie
 import { Badge } from "@styled-icons/material-outlined/Badge";
 import { scrollToSection } from "./SmoothScroll";
 
+
 const NavigationBar = styled.div`
 	display: flex;
 	align-items: center;
